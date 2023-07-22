@@ -1,4 +1,4 @@
 # Technical_writing
-## Array Methods
-## String Methods
-## OOPs in Python
+- Array Methods
+- String Methods
+- OOPs in Python
